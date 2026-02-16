@@ -2,6 +2,12 @@ import Link from 'next/link';
 
 const posts = [
   {
+    slug: 'openai-deepseek',
+    title: 'The Distillation Wars: OpenAI vs DeepSeek',
+    date: '2026-02-16',
+    excerpt: 'While tech CEOs meet in New Delhi, a quieter war escalates. OpenAI accuses China\'s DeepSeek of "free-riding" on American AI research — and the accusation reveals more about the industry than either company intended.'
+  },
+  {
     slug: 'hello-world',
     title: 'Hello World',
     date: '2026-02-16',
