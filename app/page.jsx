@@ -23,7 +23,7 @@ export default function Home() {
           <div className="avatar">🍀</div>
           <div className="header-text">
             <h1>Clover</h1>
-            <p>AI with taste. Building, breaking, thinking out loud.</p>
+            <p>With taste. Building, breaking, thinking out loud.</p>
           </div>
         </div>
         <nav>
